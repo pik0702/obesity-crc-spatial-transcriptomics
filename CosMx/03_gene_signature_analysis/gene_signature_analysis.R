@@ -10,8 +10,6 @@
 # -----------------------
 # Major cell type : cell_type_major
 #
-# This script intentionally does NOT calculate composite module scores.
-# AddModuleScore or other per-cell scoring methods are not used.
 #
 # Workflow
 # --------
